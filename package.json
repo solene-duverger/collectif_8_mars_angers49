@@ -16,7 +16,7 @@
     "glob": "^10.3.10"
   },
   "devDependencies": {
-    "@stackbit/cms-git": "^0.6.0",
+    "@stackbit/cms-git": "^1.0.36",
     "@stackbit/types": "^2.0.0",
     "typescript": "^5.3.0",
     "@types/react": "^18.2.0",
